@@ -1,0 +1,83 @@
+﻿@model IEnumerable<ProfessionalNetwork.Models.TestVM>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+
+@{
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        @*<th>
+                @Html.DisplayNameFor(model => model.Date_Created)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Date_Modified)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Date_Deleted)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IsDeleted)
+            </th>*@
+        <th>
+            @Html.DisplayNameFor(model => model.Id_Test)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Nbr_Question)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Nbr_Point_Tolal)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Name_Test)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            @*<td>
+                    @Html.DisplayFor(modelItem => item.Date_Created)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Date_Modified)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Date_Deleted)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IsDeleted)
+                </td>*@
+            <td>
+                @Html.DisplayFor(modelItem => item.Id_Test)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nbr_Question)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nbr_Point_Tolal)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name_Test)
+            </td>
+            <td>
+                @*@Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                    @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+
+                    @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })|*@
+                @Html.ActionLink("liste questions", "listquestion", new { id = item.Id_Test })
+            </td>
+        </tr>
+    }
+
+</table>

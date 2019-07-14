@@ -1,0 +1,57 @@
+﻿@model IEnumerable<ProfessionalNetwork.Models.ApplicationVM>
+
+@{
+    ViewBag.Title = "All Condidates";
+}
+
+<h2>Index</h2>
+
+@*<p>
+    @Html.ActionLink("Create New", "Create")
+</p>*@
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Id_Application)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Date_Application)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Job_Offer.job_title)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Jobseeker.First_Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.State)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Id_Application)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Date_Application)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Job_Offer.job_title)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Jobseeker.First_Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.State)
+        </td>
+        <td>
+            @Html.ActionLink("Show Application", "Details", new { id = item.Id_Application })
+            @*@Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })*@
+        </td>
+    </tr>
+}
+
+</table>

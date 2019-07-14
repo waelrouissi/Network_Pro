@@ -1,0 +1,85 @@
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork.Data\obj\Debug\ProfessionalNetwork.Data.csprojResolveAssemblyReference.cache
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork.Data\bin\Debug\ProfessionalNetwork.Data.dll.config
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork.Data\bin\Debug\ProfessionalNetwork.Data.dll
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork.Data\bin\Debug\ProfessionalNetwork.Data.pdb
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork.Data\bin\Debug\EntityFramework.dll
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork.Data\bin\Debug\ProfessionalNetwork.Domaine.dll
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork.Data\bin\Debug\ProfessionalNetwork.Domaine.pdb
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork.Data\bin\Debug\EntityFramework.xml
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork.Data\obj\Debug\ProfessionalNetwork.Data.dll
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork.Data\obj\Debug\ProfessionalNetwork.Data.pdb
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork.Data\obj\Debug\ProfessionalNetwork.Data.csprojResolveAssemblyReference.cache
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork.Data\obj\Debug\ProfessionalNetwork.Data.dll
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork.Data\obj\Debug\ProfessionalNetwork.Data.pdb
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork.Data\bin\Debug\ProfessionalNetwork.Data.dll.config
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork.Data\bin\Debug\ProfessionalNetwork.Data.dll
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork.Data\bin\Debug\ProfessionalNetwork.Data.pdb
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork.Data\bin\Debug\EntityFramework.dll
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork.Data\bin\Debug\ProfessionalNetwork.Domaine.dll
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork.Data\bin\Debug\ProfessionalNetwork.Domaine.pdb
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork.Data\bin\Debug\ProfessionalNetwork.Domaine.dll.config
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork.Data\bin\Debug\EntityFramework.xml
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork.Data\obj\Debug\ProfessionalNetwork.Data.csprojAssemblyReference.cache
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork.Data\obj\Debug\ProfessionalNetwork.Data.csproj.CoreCompileInputs.cache
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork.Data\obj\Debug\ProfessionalNetwork.Data.csproj.CopyComplete
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork.Data\obj\Debug\ProfessionalNetwork.Data.dll
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork.Data\obj\Debug\ProfessionalNetwork.Data.pdb
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork.Data\obj\Debug\ProfessionalNetwork.Data.Migrations.firstmig.resources
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork.Data\obj\Debug\ProfessionalNetwork.Data.csproj.GenerateResource.cache
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork.Data\obj\Debug\ProfessionalNetwork.Data.Migrations.newone.resources
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork.Data\obj\Debug\ProfessionalNetwork.Data.csprojAssemblyReference.cache
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork.Data\obj\Debug\ProfessionalNetwork.Data.csproj.CoreCompileInputs.cache
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork.Data\obj\Debug\ProfessionalNetwork.Data.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork.Data\obj\Debug\ProfessionalNetwork.Data.pdb
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork.Data\bin\Debug\ProfessionalNetwork.Data.dll.config
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork.Data\bin\Debug\ProfessionalNetwork.Data.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork.Data\bin\Debug\ProfessionalNetwork.Data.pdb
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork.Data\bin\Debug\EntityFramework.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork.Data\bin\Debug\ProfessionalNetwork.Domaine.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork.Data\bin\Debug\ProfessionalNetwork.Domaine.pdb
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork.Data\bin\Debug\ProfessionalNetwork.Domaine.dll.config
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork.Data\bin\Debug\EntityFramework.xml
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork.Data\obj\Debug\ProfessionalNetwork.Data.csproj.CopyComplete
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork.Data\obj\Debug\ProfessionalNetwork.Data.Migrations.sasbi.resources
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork.Data\obj\Debug\ProfessionalNetwork.Data.csproj.GenerateResource.cache
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork.Data\bin\Debug\ProfessionalNetwork.Data.dll.config
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork.Data\bin\Debug\ProfessionalNetwork.Data.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork.Data\bin\Debug\ProfessionalNetwork.Data.pdb
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork.Data\bin\Debug\EntityFramework.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork.Data\bin\Debug\ProfessionalNetwork.Domaine.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork.Data\bin\Debug\ProfessionalNetwork.Domaine.pdb
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork.Data\bin\Debug\ProfessionalNetwork.Domaine.dll.config
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork.Data\bin\Debug\EntityFramework.xml
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork.Data\obj\Debug\ProfessionalNetwork.Data.csprojAssemblyReference.cache
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork.Data\obj\Debug\ProfessionalNetwork.Data.csproj.CoreCompileInputs.cache
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork.Data\obj\Debug\ProfessionalNetwork.Data.csproj.CopyComplete
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork.Data\obj\Debug\ProfessionalNetwork.Data.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork.Data\obj\Debug\ProfessionalNetwork.Data.pdb
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork.Data\bin\Debug\ProfessionalNetwork.Data.dll.config
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork.Data\bin\Debug\ProfessionalNetwork.Data.dll
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork.Data\bin\Debug\ProfessionalNetwork.Data.pdb
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork.Data\bin\Debug\EntityFramework.dll
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork.Data\bin\Debug\ProfessionalNetwork.Domaine.dll
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork.Data\bin\Debug\ProfessionalNetwork.Domaine.pdb
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork.Data\bin\Debug\ProfessionalNetwork.Domaine.dll.config
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork.Data\bin\Debug\EntityFramework.xml
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork.Data\obj\Debug\ProfessionalNetwork.Data.csprojAssemblyReference.cache
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork.Data\obj\Debug\ProfessionalNetwork.Data.csproj.CoreCompileInputs.cache
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork.Data\obj\Debug\ProfessionalNetwork.Data.csproj.CopyComplete
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork.Data\obj\Debug\ProfessionalNetwork.Data.dll
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork.Data\obj\Debug\ProfessionalNetwork.Data.pdb
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork.Data\obj\Debug\ProfessionalNetwork.Data.Migrations.H.resources
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork.Data\obj\Debug\ProfessionalNetwork.Data.csproj.GenerateResource.cache
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork.Data\obj\Debug\ProfessionalNetwork.Data.Migrations.w.resources
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork.Data\obj\Debug\ProfessionalNetwork.Data.csproj.GenerateResource.cache
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork.Data\obj\Debug\ProfessionalNetwork.Data.Migrations.newlast.resources

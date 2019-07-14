@@ -1,0 +1,710 @@
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\obj\Debug\ProfessionalNetwork.csprojResolveAssemblyReference.cache
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\ApplicationInsights.config
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\roslyn\csc.exe
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\roslyn\vbc.exe
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\roslyn\VBCSCompiler.exe
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.dll.config
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.dll
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.pdb
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\Antlr3.Runtime.dll
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\EntityFramework.dll
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\EntityFramework.SqlServer.dll
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.AI.Web.dll
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.ApplicationInsights.dll
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.Owin.dll
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.dll
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\Newtonsoft.Json.dll
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\Owin.dll
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.Domaine.dll
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.Service.dll
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.ServicePattern.dll
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\System.Net.Http.Formatting.dll
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\System.Web.Helpers.dll
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\System.Web.Http.dll
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\System.Web.Http.WebHost.dll
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\System.Web.Mvc.dll
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\System.Web.Optimization.dll
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\System.Web.Razor.dll
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\System.Web.WebPages.Deployment.dll
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\System.Web.WebPages.dll
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\System.Web.WebPages.Razor.dll
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\WebGrease.dll
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.Data.dll
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.Domaine.pdb
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.ServicePattern.pdb
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.Service.pdb
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.AI.Web.xml
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.ApplicationInsights.xml
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\System.Web.Helpers.xml
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\System.Web.Mvc.xml
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\System.Web.Optimization.xml
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\System.Web.Razor.xml
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\System.Web.WebPages.xml
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\System.Web.WebPages.Deployment.xml
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\System.Web.WebPages.Razor.xml
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\Antlr3.Runtime.pdb
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\Newtonsoft.Json.xml
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\System.Net.Http.Formatting.xml
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\System.Web.Http.xml
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\System.Web.Http.WebHost.xml
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\EntityFramework.xml
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\EntityFramework.SqlServer.xml
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.Owin.xml
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.xml
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.Data.pdb
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\obj\Debug\ProfessionalNetwork.dll
+C:\Users\chtak\Documents\Visual Studio 2015\Projects\ProfessionalNetwork\ProfessionalNetwork\obj\Debug\ProfessionalNetwork.pdb
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\ApplicationInsights.config
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\roslyn\csc.exe
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\roslyn\vbc.exe
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\roslyn\VBCSCompiler.exe
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.dll.config
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.dll
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.pdb
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Antlr3.Runtime.dll
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\EntityFramework.dll
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\EntityFramework.SqlServer.dll
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.AI.Web.dll
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.ApplicationInsights.dll
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.Owin.dll
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.dll
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Newtonsoft.Json.dll
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Owin.dll
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.Domaine.dll
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.Service.dll
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.ServicePattern.dll
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\System.Net.Http.Formatting.dll
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\System.Web.Helpers.dll
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\System.Web.Http.dll
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\System.Web.Http.WebHost.dll
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\System.Web.Mvc.dll
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\System.Web.Optimization.dll
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\System.Web.Razor.dll
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\System.Web.WebPages.Deployment.dll
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\System.Web.WebPages.dll
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\System.Web.WebPages.Razor.dll
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\WebGrease.dll
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.Data.dll
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.Domaine.pdb
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.ServicePattern.pdb
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.Service.pdb
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.AI.Web.xml
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.ApplicationInsights.xml
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\System.Web.Helpers.xml
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\System.Web.Mvc.xml
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\System.Web.Optimization.xml
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\System.Web.Razor.xml
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\System.Web.WebPages.xml
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\System.Web.WebPages.Deployment.xml
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\System.Web.WebPages.Razor.xml
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Antlr3.Runtime.pdb
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Newtonsoft.Json.xml
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\System.Net.Http.Formatting.xml
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\System.Web.Http.xml
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\System.Web.Http.WebHost.xml
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\EntityFramework.xml
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\EntityFramework.SqlServer.xml
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.Owin.xml
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.xml
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.Data.pdb
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\obj\Debug\ProfessionalNetwork.csprojResolveAssemblyReference.cache
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\obj\Debug\ProfessionalNetwork.dll
+C:\Users\chtak\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\obj\Debug\ProfessionalNetwork.pdb
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\ApplicationInsights.config
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\roslyn\csc.exe
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\roslyn\vbc.exe
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\roslyn\VBCSCompiler.exe
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.dll.config
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.dll
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.pdb
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Antlr3.Runtime.dll
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\EntityFramework.dll
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\EntityFramework.SqlServer.dll
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.AI.Web.dll
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.ApplicationInsights.dll
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.Owin.dll
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.dll
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Newtonsoft.Json.dll
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Owin.dll
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.Domaine.dll
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.Service.dll
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.ServicePattern.dll
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\System.Net.Http.Formatting.dll
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\System.Web.Helpers.dll
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\System.Web.Http.dll
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\System.Web.Http.WebHost.dll
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\System.Web.Mvc.dll
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\System.Web.Optimization.dll
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\System.Web.Razor.dll
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\System.Web.WebPages.Deployment.dll
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\System.Web.WebPages.dll
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\System.Web.WebPages.Razor.dll
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\WebGrease.dll
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.Data.dll
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.Domaine.pdb
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.Domaine.dll.config
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.ServicePattern.pdb
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.ServicePattern.dll.config
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.Service.pdb
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.Service.dll.config
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.AI.Web.xml
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.ApplicationInsights.xml
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\System.Web.Helpers.xml
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\System.Web.Mvc.xml
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\System.Web.Optimization.xml
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\System.Web.Razor.xml
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\System.Web.WebPages.xml
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\System.Web.WebPages.Deployment.xml
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\System.Web.WebPages.Razor.xml
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Antlr3.Runtime.pdb
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Newtonsoft.Json.xml
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\System.Net.Http.Formatting.xml
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\System.Web.Http.xml
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\System.Web.Http.WebHost.xml
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\EntityFramework.xml
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\EntityFramework.SqlServer.xml
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.Owin.xml
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.xml
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.Data.pdb
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.Data.dll.config
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\obj\Debug\ProfessionalNetwork.csprojAssemblyReference.cache
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\obj\Debug\ProfessionalNetwork.csproj.CoreCompileInputs.cache
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\obj\Debug\ProfessionalNetwork.csproj.CopyComplete
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\obj\Debug\ProfessionalNetwork.dll
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\obj\Debug\ProfessionalNetwork.pdb
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\obj\Debug\ProfessionalNetwork.Migrations.V1.resources
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\obj\Debug\ProfessionalNetwork.csproj.GenerateResource.cache
+C:\Users\send\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\obj\Debug\ProfessionalNetwork.Migrations.V2.resources
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\ApplicationInsights.config
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\roslyn\csc.exe
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\roslyn\vbc.exe
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\roslyn\VBCSCompiler.exe
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.dll.config
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.pdb
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Antlr3.Runtime.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\EntityFramework.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\EntityFramework.SqlServer.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.AI.Web.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.ApplicationInsights.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.Owin.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Newtonsoft.Json.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Owin.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.Domaine.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.Service.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.ServicePattern.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\System.Net.Http.Formatting.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\System.Web.Helpers.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\System.Web.Http.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\System.Web.Http.WebHost.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\System.Web.Mvc.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\System.Web.Optimization.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\System.Web.Razor.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\System.Web.WebPages.Deployment.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\System.Web.WebPages.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\System.Web.WebPages.Razor.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\WebGrease.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.Data.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.Domaine.pdb
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.Domaine.dll.config
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.ServicePattern.pdb
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.ServicePattern.dll.config
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.Service.pdb
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.Service.dll.config
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.AI.Web.xml
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.ApplicationInsights.xml
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\System.Web.Helpers.xml
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\System.Web.Mvc.xml
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\System.Web.Optimization.xml
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\System.Web.Razor.xml
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\System.Web.WebPages.xml
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\System.Web.WebPages.Deployment.xml
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\System.Web.WebPages.Razor.xml
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Antlr3.Runtime.pdb
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Newtonsoft.Json.xml
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\System.Net.Http.Formatting.xml
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\System.Web.Http.xml
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\System.Web.Http.WebHost.xml
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\EntityFramework.xml
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\EntityFramework.SqlServer.xml
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.Owin.xml
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.xml
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.Data.pdb
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.Data.dll.config
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\obj\Debug\ProfessionalNetwork.csprojAssemblyReference.cache
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\obj\Debug\ProfessionalNetwork.Migrations.V1.resources
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\obj\Debug\ProfessionalNetwork.Migrations.V2.resources
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\obj\Debug\ProfessionalNetwork.csproj.GenerateResource.cache
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\obj\Debug\ProfessionalNetwork.csproj.CoreCompileInputs.cache
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\obj\Debug\ProfessionalNetwork.csproj.CopyComplete
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\obj\Debug\ProfessionalNetwork.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProfessionalNetwork\ProfessionalNetwork\obj\Debug\ProfessionalNetwork.pdb
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\ApplicationInsights.config
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\roslyn\csc.exe
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\roslyn\vbc.exe
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\roslyn\VBCSCompiler.exe
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.dll.config
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.pdb
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Antlr3.Runtime.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\EntityFramework.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\EntityFramework.SqlServer.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Microsoft.AI.Web.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Microsoft.ApplicationInsights.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Microsoft.Owin.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Newtonsoft.Json.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Owin.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.Domaine.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.Service.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.ServicePattern.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\System.Net.Http.Formatting.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\System.Web.Helpers.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\System.Web.Http.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\System.Web.Http.WebHost.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\System.Web.Mvc.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\System.Web.Optimization.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\System.Web.Razor.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\System.Web.WebPages.Deployment.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\System.Web.WebPages.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\System.Web.WebPages.Razor.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\WebGrease.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.Data.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.Domaine.pdb
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.Domaine.dll.config
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.ServicePattern.pdb
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.ServicePattern.dll.config
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.Service.pdb
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.Service.dll.config
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Microsoft.AI.Web.xml
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Microsoft.ApplicationInsights.xml
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\System.Web.Helpers.xml
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\System.Web.Mvc.xml
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\System.Web.Optimization.xml
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\System.Web.Razor.xml
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\System.Web.WebPages.xml
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\System.Web.WebPages.Deployment.xml
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\System.Web.WebPages.Razor.xml
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Antlr3.Runtime.pdb
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Newtonsoft.Json.xml
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\System.Net.Http.Formatting.xml
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\System.Web.Http.xml
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\System.Web.Http.WebHost.xml
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\EntityFramework.xml
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\EntityFramework.SqlServer.xml
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Microsoft.Owin.xml
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.xml
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.Data.pdb
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.Data.dll.config
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\obj\Debug\ProfessionalNetwork.csprojAssemblyReference.cache
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\obj\Debug\ProfessionalNetwork.Migrations.H.resources
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\obj\Debug\ProfessionalNetwork.csproj.GenerateResource.cache
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\obj\Debug\ProfessionalNetwork.csproj.CoreCompileInputs.cache
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\obj\Debug\ProfessionalNetwork.csproj.CopyComplete
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\obj\Debug\ProfessionalNetwork.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork\obj\Debug\ProfessionalNetwork.pdb
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\ApplicationInsights.config
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\roslyn\csc.exe
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\roslyn\vbc.exe
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\roslyn\VBCSCompiler.exe
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.dll.config
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.dll
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.pdb
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Antlr3.Runtime.dll
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\EntityFramework.dll
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\EntityFramework.SqlServer.dll
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Microsoft.AI.Web.dll
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Microsoft.ApplicationInsights.dll
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Microsoft.Owin.dll
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.dll
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Newtonsoft.Json.dll
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Owin.dll
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.Domaine.dll
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.Service.dll
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.ServicePattern.dll
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\System.Net.Http.Formatting.dll
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\System.Web.Helpers.dll
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\System.Web.Http.dll
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\System.Web.Http.WebHost.dll
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\System.Web.Mvc.dll
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\System.Web.Optimization.dll
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\System.Web.Razor.dll
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\System.Web.WebPages.Deployment.dll
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\System.Web.WebPages.dll
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\System.Web.WebPages.Razor.dll
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\WebGrease.dll
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.Data.dll
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.Domaine.pdb
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.Domaine.dll.config
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.ServicePattern.pdb
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.ServicePattern.dll.config
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.Service.pdb
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.Service.dll.config
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Microsoft.AI.Web.xml
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Microsoft.ApplicationInsights.xml
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\System.Web.Helpers.xml
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\System.Web.Mvc.xml
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\System.Web.Optimization.xml
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\System.Web.Razor.xml
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\System.Web.WebPages.xml
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\System.Web.WebPages.Deployment.xml
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\System.Web.WebPages.Razor.xml
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Antlr3.Runtime.pdb
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Newtonsoft.Json.xml
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\System.Net.Http.Formatting.xml
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\System.Web.Http.xml
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\System.Web.Http.WebHost.xml
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\EntityFramework.xml
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\EntityFramework.SqlServer.xml
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Microsoft.Owin.xml
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.xml
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.Data.pdb
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\bin\ProfessionalNetwork.Data.dll.config
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\obj\Debug\ProfessionalNetwork.csprojAssemblyReference.cache
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\obj\Debug\ProfessionalNetwork.csproj.CoreCompileInputs.cache
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\obj\Debug\ProfessionalNetwork.csproj.CopyComplete
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\obj\Debug\ProfessionalNetwork.dll
+C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork\obj\Debug\ProfessionalNetwork.pdb
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\ApplicationInsights.config
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\roslyn\csc.exe
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\roslyn\vbc.exe
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\roslyn\VBCSCompiler.exe
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\ProfessionalNetwork.dll.config
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\ProfessionalNetwork.dll
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\ProfessionalNetwork.pdb
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\Antlr3.Runtime.dll
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\EntityFramework.dll
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\EntityFramework.SqlServer.dll
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\Microsoft.AI.Web.dll
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\Microsoft.ApplicationInsights.dll
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\Microsoft.Owin.dll
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\Microsoft.Owin.Security.dll
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\Newtonsoft.Json.dll
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\Owin.dll
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\ProfessionalNetwork.Domaine.dll
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\ProfessionalNetwork.Service.dll
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\ProfessionalNetwork.ServicePattern.dll
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\System.Net.Http.Formatting.dll
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\System.Web.Helpers.dll
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\System.Web.Http.dll
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\System.Web.Http.WebHost.dll
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\System.Web.Mvc.dll
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\System.Web.Optimization.dll
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\System.Web.Razor.dll
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\System.Web.WebPages.Deployment.dll
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\System.Web.WebPages.dll
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\System.Web.WebPages.Razor.dll
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\WebGrease.dll
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\ProfessionalNetwork.Data.dll
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\ProfessionalNetwork.Domaine.pdb
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\ProfessionalNetwork.Domaine.dll.config
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\ProfessionalNetwork.ServicePattern.pdb
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\ProfessionalNetwork.ServicePattern.dll.config
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\ProfessionalNetwork.Service.pdb
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\ProfessionalNetwork.Service.dll.config
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\Microsoft.AI.Web.xml
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\Microsoft.ApplicationInsights.xml
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\System.Web.Helpers.xml
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\System.Web.Mvc.xml
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\System.Web.Optimization.xml
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\System.Web.Razor.xml
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\System.Web.WebPages.xml
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\System.Web.WebPages.Deployment.xml
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\System.Web.WebPages.Razor.xml
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\Antlr3.Runtime.pdb
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\Newtonsoft.Json.xml
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\System.Net.Http.Formatting.xml
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\System.Web.Http.xml
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\System.Web.Http.WebHost.xml
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\EntityFramework.xml
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\EntityFramework.SqlServer.xml
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\Microsoft.Owin.xml
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\Microsoft.Owin.Security.xml
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\ProfessionalNetwork.Data.pdb
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\bin\ProfessionalNetwork.Data.dll.config
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\obj\Debug\ProfessionalNetwork.csprojAssemblyReference.cache
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\obj\Debug\ProfessionalNetwork.csproj.CoreCompileInputs.cache
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\obj\Debug\ProfessionalNetwork.csproj.CopyComplete
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\obj\Debug\ProfessionalNetwork.dll
+C:\Users\send\Documents\GitHub\Network_Pro\ProfessionalNetwork\obj\Debug\ProfessionalNetwork.pdb

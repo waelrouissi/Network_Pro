@@ -1,0 +1,88 @@
+﻿@model IEnumerable<ProfessionalNetwork.Models.Job_OfferVM>
+
+@*@{
+    ViewBag.Title = "All Job Offers";
+}
+
+<h2>All Job Offers</h2>
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.job_title)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Job_Description)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Date_Offer)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Nbr_Candidat)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Date_Expiration)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Entreprise_Admin.Name_Entrerise)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.job_title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Job_Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Date_Offer)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nbr_Candidat)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Date_Expiration)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Entreprise_Admin.Name_Entrerise)
+            </td>
+            <td>
+                @Html.ActionLink("Show Condidates", "ShowCondidates", new { id = item.Id_JobOffer })
+            </td>
+        </tr>
+    }
+
+</table>*@
+<h3 class="tittle text-center mb-lg-4 mb-3">
+    <span>Companies</span>JOB OFFERS
+</h3>
+<!---728x90--->
+<div class="row choose-main mt-5">
+    @foreach (var item in Model)
+    {
+    <div class="col-lg-6 work-grid-right">
+        <div class="work-info">
+            <h5>
+                <span class="post-color"> @Html.DisplayFor(modelItem => item.Entreprise_Admin.Name_Entrerise)</span>
+            </h5>
+            <h4 class="post my-3">@Html.DisplayFor(modelItem => item.job_title)</h4>
+            <p>Condidates Number : @Html.DisplayFor(modelItem => item.Nbr_Candidat) </p>
+            <p>Date Offer : @Html.DisplayFor(modelItem => item.Date_Offer) </p>
+            <p> Date Expiration : @Html.DisplayFor(modelItem => item.Date_Expiration) </p>
+            <p>@Html.DisplayFor(modelItem => item.Job_Description) </p>
+            <div class="emp_btn text-center">
+                <a href="@Url.Action("ShowCondidates",new { id = item.Id_JobOffer })" title="">Show Condidates</a>
+            </div>
+        </div>
+       
+    </div>
+        <div class="col-lg-6 work-grid-left">
+            <img src="Template/images/g1.jpg" alt="" class="img-fluid">
+        </div>
+    }
+    </div>

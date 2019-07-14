@@ -1,0 +1,91 @@
+﻿@model IEnumerable<ProfessionalNetwork.Models.ApplicationVM>
+
+@{
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+@*<h2>All Condidates For Offer   :  <b>@Model.First().Job_Offer.job_title</b> </h2>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Id_Application)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Date_Application)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Job_Offer.job_title)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Jobseeker.First_Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.State)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Id_Application)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Date_Application)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Job_Offer.job_title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Jobseeker.First_Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.State)
+            </td>
+            <td>
+                @Html.ActionLink("Show Application", "Details", new { id = item.Id_Application })
+            </td>
+        </tr>
+    }
+
+</table>*@
+
+
+<div class="inner-sec-w3ls py-lg-5  py-3">
+    <!---728x90--->
+    <h3 class="tittle text-center mb-lg-4 mb-3">
+        <span> </span>All Candidates
+    </h3>
+    <!---728x90--->
+
+</div>
+
+<div class="col-lg-8 job_info_left">
+    <!--/ Emply List -->
+    @foreach (var item in Model)
+    {
+        <div class="emply-resume-list row mb-3">
+            <div class="col-md-9 emply-info">
+                <div class="emply-img">
+                    <img src="~/Template/images/team1.jpg" alt="" class="img-fluid">
+                </div>
+                <div class="emply-resume-info">
+                    <h4><a href="candidates_single.html"> @Html.DisplayFor(modelItem => item.Jobseeker.First_Name) </a></h4>
+                    <h5 class="mt-2"><span> @Html.DisplayFor(modelItem => item.Job_Offer.job_title)</span></h5>
+                    <h5 class="mt-2"><span> @Html.DisplayFor(modelItem => item.Date_Application)</span></h5>
+                    <h5 class="mt-2"><span> @Html.DisplayFor(modelItem => item.State)</span></h5>
+                    @*<ul class="links_bottom_emp mt-2">
+                        <li><a href="candidates_single.html"><i class="far fa-envelope"></i> <span class="icon_text"> Email this Job</span></a></li>
+                        <li><a href="#"><i class="fas fa-eye"></i> <span class="icon_text">View full Profile Description</span></a></li>
+                    </ul>*@
+                </div>
+                <div class="clearfix"></div>
+            </div>
+            <div class="col-md-3 emp_btn text-right">
+                <a href="@Url.Action("Details", new { id = item.Id_Application })" >Show Application </a>
+            </div>
+        </div>
+    }
+</div>
