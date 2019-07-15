@@ -83,3 +83,17 @@ C:\Users\salsa\OneDrive\Documents\GitHub\ProNetwork\ProfessionalNetwork.Data\obj
 C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork.Data\obj\Debug\ProfessionalNetwork.Data.Migrations.w.resources
 C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork.Data\obj\Debug\ProfessionalNetwork.Data.csproj.GenerateResource.cache
 C:\Users\send\Documents\GitHub\ProNetwork\ProfessionalNetwork.Data\obj\Debug\ProfessionalNetwork.Data.Migrations.newlast.resources
+C:\Users\SAFA\Documents\GitHub\Network_Pro\ProfessionalNetwork.Data\bin\Debug\ProfessionalNetwork.Data.dll.config
+C:\Users\SAFA\Documents\GitHub\Network_Pro\ProfessionalNetwork.Data\bin\Debug\ProfessionalNetwork.Data.dll
+C:\Users\SAFA\Documents\GitHub\Network_Pro\ProfessionalNetwork.Data\bin\Debug\ProfessionalNetwork.Data.pdb
+C:\Users\SAFA\Documents\GitHub\Network_Pro\ProfessionalNetwork.Data\bin\Debug\EntityFramework.dll
+C:\Users\SAFA\Documents\GitHub\Network_Pro\ProfessionalNetwork.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SAFA\Documents\GitHub\Network_Pro\ProfessionalNetwork.Data\bin\Debug\ProfessionalNetwork.Domaine.dll
+C:\Users\SAFA\Documents\GitHub\Network_Pro\ProfessionalNetwork.Data\bin\Debug\ProfessionalNetwork.Domaine.pdb
+C:\Users\SAFA\Documents\GitHub\Network_Pro\ProfessionalNetwork.Data\bin\Debug\EntityFramework.xml
+C:\Users\SAFA\Documents\GitHub\Network_Pro\ProfessionalNetwork.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SAFA\Documents\GitHub\Network_Pro\ProfessionalNetwork.Data\obj\Debug\ProfessionalNetwork.Data.csprojResolveAssemblyReference.cache
+C:\Users\SAFA\Documents\GitHub\Network_Pro\ProfessionalNetwork.Data\obj\Debug\ProfessionalNetwork.Data.dll
+C:\Users\SAFA\Documents\GitHub\Network_Pro\ProfessionalNetwork.Data\obj\Debug\ProfessionalNetwork.Data.pdb
+C:\Users\SAFA\Documents\GitHub\Network_Pro\ProfessionalNetwork.Data\obj\Debug\ProfessionalNetwork.Data.Migrations.version2.resources
+C:\Users\SAFA\Documents\GitHub\Network_Pro\ProfessionalNetwork.Data\obj\Debug\ProfessionalNetwork.Data.csproj.GenerateResource.Cache

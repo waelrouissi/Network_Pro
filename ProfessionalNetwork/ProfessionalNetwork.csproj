@@ -398,12 +398,16 @@
     <Content Include="Template\webfonts\fa-solid-900.woff2" />
     <Content Include="Views\Shared\_NewLayout.cshtml" />
     <Content Include="Views\Shared\_MainLayout.cshtml" />
+    <Content Include="Views\JobSeeker\Index.cshtml" />
+    <Content Include="Views\JobSeeker\Details.cshtml" />
+    <Content Include="Views\JobSeeker\Create.cshtml" />
+    <Content Include="Views\JobSeeker\Edit.cshtml" />
+    <Content Include="Views\JobSeeker\Delete.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Views\Entrepirse_Admin\" />
     <Folder Include="Views\Entreprise_Admin\" />
-    <Folder Include="Views\JobSeeker\" />
     <Folder Include="Views\Job_Offer\" />
     <Folder Include="Views\Post\" />
     <Folder Include="Views\project_Manager\" />
