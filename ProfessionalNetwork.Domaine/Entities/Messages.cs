@@ -10,20 +10,18 @@ namespace ProfessionalNetwork.Domaine.Entities
 {
     public class Messages
     {
-        [Key, Column(Order = 0)]
-        public long Id_Entrepirse { get; set; }
 
-        [Key, Column(Order = 1)]
-        public long id_jobseeker { get; set; }
-
+        [Key]
+        public int Id_Msg { get; set; }
         [DataType(DataType.DateTime)]
         public DateTime Date_message { get; set; }
         public string Content { get; set; }
         public string sender { get; set; }
 
-        [ForeignKey("id_jobseeker")]
+
+        public long id_jobseeker { get; set; }
         public Jobseeker Jobseekers { get; set; }
-        [ForeignKey("Id_Entrepirse")]
+        public long Id_Entrepirse { get; set; }
         public Entreprise_admin Entreprise_admins { get; set; }
 
 

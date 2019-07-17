@@ -49,7 +49,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CommentsService.cs" />
+    <Compile Include="ICommentsServices.cs" />
+    <Compile Include="ILikesService.cs" />
     <Compile Include="IQuestionService.cs" />
+    <Compile Include="LikesService.cs" />
     <Compile Include="QuestionService.cs" />
     <Compile Include="ApplicationService.cs" />
     <Compile Include="Class1.cs" />

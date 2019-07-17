@@ -1,0 +1,138 @@
+﻿@model IEnumerable<ProfessionalNetwork.Models.PostsVM>
+<script src="~/Scripts/toastr.js"></script>
+<link href="~/Content/toastr.css" rel="stylesheet" />
+@{
+
+    ViewBag.Title = "bootstrap";
+
+}
+<br />
+<br />
+
+<div>
+
+    @Html.ActionLink("Create New", "Create")
+
+</div>
+
+<br />
+
+
+@foreach (var item in Model)
+{
+
+
+    <div class="panel panel-default">
+        <div class="panel-heading"> @Html.DisplayFor(modelItem => item.Date_Post)</div>
+        <div class="panel-body"> @Html.DisplayFor(modelItem => item.Post)</div>
+        <div class="panel-footer">
+            @Html.DisplayFor(modelItem => item.nbrLikes) Likes |
+
+            @if (!item.isLiked)
+            {
+
+                <button id="btn" type="button" class="btn btn-success">
+                    <span class="glyphicon glyphicon-thumbs-up" aria-hidden="true" onclick="location.href='@Url.Action("LikePost","Posts", new { id = item.Id_Post })'"></span>
+                </button>
+
+
+            }
+            |
+            @Html.ActionLink("View Comments", "ViewComments", new { id = item.Id_Post })
+            |
+
+            @if (item.isPostOwner)
+            {
+
+
+                @Html.ActionLink("Delete", "Delete", new { id = item.Id_Post })
+
+            }
+        </div>
+    </div>
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@*<table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Post)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Date_Post)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Job_SeekerFK)
+            </th>
+            <th></th>
+        </tr>
+
+
+        @foreach (var item in Model)
+        {
+
+
+
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Post)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Date_Post)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Job_SeekerFK)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.Id_Post }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.Id_Post }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.Id_Post })|
+
+                    @Html.DisplayFor(modelItem => item.nbrLikes) Likes |
+
+                    @if (!item.isLiked)
+                    {
+                        <button type="button" class="btn btn-success">
+                            <span class="glyphicon glyphicon-thumbs-up" aria-hidden="true" onclick="location.href='@Url.Action("LikePost","Posts", new { id = item.Id_Post })'"></span>
+                        </button>
+
+                    }
+
+                </td>
+
+                <td></td>
+            </tr>
+        }
+
+    </table>*@

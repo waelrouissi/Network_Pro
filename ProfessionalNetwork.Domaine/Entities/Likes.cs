@@ -10,16 +10,14 @@ namespace ProfessionalNetwork.Domaine.Entities
 {
     public class Likes
     {
-        [Key, Column(Order = 0)]
-        public long id_jobseeker { get; set; }
-        [Key, Column(Order = 1)]
-        public int Id_Post { get; set; }
+        [Key]
+        public long Id_Like { get; set; }
 
-        //[ForeignKey("id_jobseeker")]
-        public Jobseeker Jobseekers { get; set; }
+        public long FK_jobseeker { get; set; }
+        public Jobseeker Jobseeker { get; set; }
 
-        //[ForeignKey("Id_Post")]
+        public long FK_Post { get; set; }
         public Posts Posts { get; set; }
-        
+
     }
 }
