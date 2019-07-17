@@ -10,16 +10,15 @@ namespace ProfessionalNetwork.Domaine.Entities
 {
     public class Notifications
     {
-        [Key, Column(Order = 0)]
-        public long Id_JobOffer { get; set; }
-
-        [Key, Column(Order = 1)]
-        public long id_jobseeker { get; set; }
+             
+        [Key]
+        public int Id_notif { get; set; }
         [DataType(DataType.DateTime)]
         public DateTime Date_Notif { get; set; }
         public string Type { get; set; }
-
+        public long Id_JobOffer { get; set; }
         public Job_Offer Job_Offers { get; set; }
+        public long id_jobseeker { get; set; }
         public Jobseeker Jobseeker { get; set; }
     }
 }

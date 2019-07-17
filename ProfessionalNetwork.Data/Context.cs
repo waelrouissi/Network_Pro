@@ -28,6 +28,7 @@ namespace ProfessionalNetwork.Data
         public DbSet<Jobseeker> JobSeekers { get; set; }
         public DbSet<Test> Tests { get; set; }
         public DbSet<Likes> Likes { get; set; }
+        public DbSet<Posts> Posts { get; set; }
         //public DbSet<Messages> Messages { get; set; }
         public DbSet<Comments> Comments { get; set; }
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
@@ -48,6 +49,7 @@ namespace ProfessionalNetwork.Data
             modelBuilder.Configurations.Add(new JobSeekerConfiguration());
             modelBuilder.Configurations.Add(new LikesConfiguration());
             modelBuilder.Configurations.Add(new CommentsConfiguration());
+            modelBuilder.Configurations.Add(new PostsConfiguration());
             //modelBuilder.Configurations.Add(new MessagesConfiguration());
 
 

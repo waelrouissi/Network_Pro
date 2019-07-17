@@ -1,0 +1,64 @@
+﻿@model IEnumerable<ProfessionalNetwork.Models.PostsVM>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+    ViewBag.Title = "bootstrap";
+}
+
+<br />
+<br />
+
+<div>
+
+    @Html.ActionLink("Create New", "Create")
+
+</div>
+
+<br />
+@*@Html.DisplayNameFor(model => model.Post)
+    @Html.DisplayNameFor(model => model.Date_Post)
+    @foreach (var item in Model)
+    {
+        <div class="panel panel-default">
+            <div class="panel-body">
+                @Html.DisplayFor(modelItem => item.Post)
+                <br />
+                @Html.DisplayFor(modelItem => item.Job_SeekerFK)
+            </div>
+        </div>
+    }*@
+
+@foreach (var item in Model)
+{
+
+
+    <div class="panel panel-default">
+        <div class="panel-heading"> @Html.DisplayFor(modelItem => item.Date_Post)</div>
+        <div class="panel-body"> @Html.DisplayFor(modelItem => item.Post)</div>
+        <div class="panel-footer">
+            @Html.DisplayFor(modelItem => item.nbrLikes) Likes |
+
+            @if (!item.isLiked)
+            {
+
+                @*<button id="btn" type="button" class="btn btn-success">
+                        <span class="glyphicon glyphicon-thumbs-up" aria-hidden="true" onclick="location.href='@Url.Action("LikePost","Posts", new { id = item.Id_Post })'"></span>
+                    </button>*@
+                @Html.ActionLink("Like ", "LikePost", new { id = item.Id_Post })
+
+            }
+            |
+            @Html.ActionLink("View Comments", "ViewComments", new { id = item.Id_Post })
+            |
+
+            @if (item.isPostOwner)
+            {
+
+
+                @Html.ActionLink("Delete", "Delete", new { id = item.Id_Post })
+
+            }
+        </div>
+    </div>
+

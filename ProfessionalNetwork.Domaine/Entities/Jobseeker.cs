@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ProfessionalNetwork.Domaine.Entities
 {
-    public class Jobseeker: Account
+    public class Jobseeker : Account
     {
         [Key]
         public long id_jobseeker { get; set; }
@@ -22,5 +22,7 @@ namespace ProfessionalNetwork.Domaine.Entities
 
         public ICollection<Application> Applications { get; set; }
         public ICollection<Posts> Posts { get; set; }
+        public ICollection<Likes> Likes { get; set; }
+        public ICollection<Comments> Comments { get; set; }
     }
 }

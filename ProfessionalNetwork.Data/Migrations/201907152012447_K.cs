@@ -3,7 +3,7 @@ namespace ProfessionalNetwork.Data.Migrations
     using System;
     using System.Data.Entity.Migrations;
     
-    public partial class w : DbMigration
+    public partial class K : DbMigration
     {
         public override void Up()
         {
@@ -150,17 +150,47 @@ namespace ProfessionalNetwork.Data.Migrations
                 .Index(t => t.Entreprise_admin_Id_Entrepirse);
             
             CreateTable(
+                "dbo.Comments",
+                c => new
+                    {
+                        Id_Com = c.Int(nullable: false, identity: true),
+                        FK_jobseeker = c.Long(nullable: false),
+                        FK_Post = c.Long(nullable: false),
+                        Comment = c.String(),
+                        Date_Com = c.DateTime(nullable: false, precision: 7, storeType: "datetime2"),
+                    })
+                .PrimaryKey(t => t.Id_Com)
+                .ForeignKey("dbo.Job_Seeker", t => t.FK_jobseeker)
+                .ForeignKey("dbo.Posts", t => t.FK_Post)
+                .Index(t => t.FK_jobseeker)
+                .Index(t => t.FK_Post);
+            
+            CreateTable(
                 "dbo.Posts",
                 c => new
                     {
                         Id_Post = c.Long(nullable: false, identity: true),
                         Post = c.String(),
                         Date_Post = c.DateTime(nullable: false, precision: 7, storeType: "datetime2"),
-                        Jobseeker_id_jobseeker = c.Long(),
+                        Job_SeekerFK = c.Long(nullable: false),
                     })
                 .PrimaryKey(t => t.Id_Post)
-                .ForeignKey("dbo.Job_Seeker", t => t.Jobseeker_id_jobseeker)
-                .Index(t => t.Jobseeker_id_jobseeker);
+                .ForeignKey("dbo.Job_Seeker", t => t.Job_SeekerFK, cascadeDelete: true)
+                .Index(t => t.Job_SeekerFK);
+            
+            CreateTable(
+                "dbo.Likes",
+                c => new
+                    {
+                        Id_Like = c.Long(nullable: false, identity: true),
+                        FK_jobseeker = c.Long(nullable: false),
+                        FK_Post = c.Long(nullable: false),
+                    })
+                .PrimaryKey(t => t.Id_Like)
+                .ForeignKey("dbo.Job_Seeker", t => t.FK_jobseeker, cascadeDelete: true)
+                .ForeignKey("dbo.Posts", t => t.FK_Post)
+                .Index(t => t.FK_jobseeker)
+                .Index(t => t.FK_Post);
             
             CreateTable(
                 "dbo.Project_Manager",
@@ -173,35 +203,6 @@ namespace ProfessionalNetwork.Data.Migrations
                 .PrimaryKey(t => t.Id_Project_Manager)
                 .ForeignKey("dbo.Entreprise_admin", t => t.Id_Entreprise_admin, cascadeDelete: true)
                 .Index(t => t.Id_Entreprise_admin);
-            
-            CreateTable(
-                "dbo.Comments",
-                c => new
-                    {
-                        id_jobseeker = c.Long(nullable: false),
-                        Id_Post = c.Long(nullable: false),
-                        Comment = c.String(),
-                        Date_Com = c.DateTime(nullable: false, precision: 7, storeType: "datetime2"),
-                    })
-                .PrimaryKey(t => new { t.id_jobseeker, t.Id_Post })
-                .ForeignKey("dbo.Job_Seeker", t => t.id_jobseeker, cascadeDelete: true)
-                .ForeignKey("dbo.Posts", t => t.Id_Post, cascadeDelete: true)
-                .Index(t => t.id_jobseeker)
-                .Index(t => t.Id_Post);
-            
-            CreateTable(
-                "dbo.Likes",
-                c => new
-                    {
-                        id_jobseeker = c.Long(nullable: false),
-                        Id_Post = c.Int(nullable: false),
-                        Posts_Id_Post = c.Long(),
-                    })
-                .PrimaryKey(t => new { t.id_jobseeker, t.Id_Post })
-                .ForeignKey("dbo.Job_Seeker", t => t.id_jobseeker, cascadeDelete: true)
-                .ForeignKey("dbo.Posts", t => t.Posts_Id_Post)
-                .Index(t => t.id_jobseeker)
-                .Index(t => t.Posts_Id_Post);
             
             CreateTable(
                 "dbo.Follows",
@@ -223,27 +224,27 @@ namespace ProfessionalNetwork.Data.Migrations
         {
             DropForeignKey("dbo.Follows", "id_jobseeker", "dbo.Job_Seeker");
             DropForeignKey("dbo.Follows", "Id_Entrepirse", "dbo.Entreprise_admin");
-            DropForeignKey("dbo.Likes", "Posts_Id_Post", "dbo.Posts");
-            DropForeignKey("dbo.Likes", "id_jobseeker", "dbo.Job_Seeker");
-            DropForeignKey("dbo.Comments", "Id_Post", "dbo.Posts");
-            DropForeignKey("dbo.Comments", "id_jobseeker", "dbo.Job_Seeker");
             DropForeignKey("dbo.Application", "Job_SeekerFK", "dbo.Job_Seeker");
             DropForeignKey("dbo.Application", "Job_OfferFK", "dbo.Job_Offer");
             DropForeignKey("dbo.Job_Offer", "EntrepirseFK", "dbo.Entreprise_admin");
             DropForeignKey("dbo.Project_Manager", "Id_Entreprise_admin", "dbo.Entreprise_admin");
             DropForeignKey("dbo.Job_Seeker", "Entreprise_admin_Id_Entrepirse", "dbo.Entreprise_admin");
-            DropForeignKey("dbo.Posts", "Jobseeker_id_jobseeker", "dbo.Job_Seeker");
+            DropForeignKey("dbo.Comments", "FK_Post", "dbo.Posts");
+            DropForeignKey("dbo.Likes", "FK_Post", "dbo.Posts");
+            DropForeignKey("dbo.Likes", "FK_jobseeker", "dbo.Job_Seeker");
+            DropForeignKey("dbo.Posts", "Job_SeekerFK", "dbo.Job_Seeker");
+            DropForeignKey("dbo.Comments", "FK_jobseeker", "dbo.Job_Seeker");
             DropForeignKey("dbo.Interview", "Id_Interview", "dbo.Test");
             DropForeignKey("dbo.Question", "TestFK", "dbo.Test");
             DropForeignKey("dbo.Interview", "Applciation_FK", "dbo.Application");
             DropIndex("dbo.Follows", new[] { "id_jobseeker" });
             DropIndex("dbo.Follows", new[] { "Id_Entrepirse" });
-            DropIndex("dbo.Likes", new[] { "Posts_Id_Post" });
-            DropIndex("dbo.Likes", new[] { "id_jobseeker" });
-            DropIndex("dbo.Comments", new[] { "Id_Post" });
-            DropIndex("dbo.Comments", new[] { "id_jobseeker" });
             DropIndex("dbo.Project_Manager", new[] { "Id_Entreprise_admin" });
-            DropIndex("dbo.Posts", new[] { "Jobseeker_id_jobseeker" });
+            DropIndex("dbo.Likes", new[] { "FK_Post" });
+            DropIndex("dbo.Likes", new[] { "FK_jobseeker" });
+            DropIndex("dbo.Posts", new[] { "Job_SeekerFK" });
+            DropIndex("dbo.Comments", new[] { "FK_Post" });
+            DropIndex("dbo.Comments", new[] { "FK_jobseeker" });
             DropIndex("dbo.Job_Seeker", new[] { "Entreprise_admin_Id_Entrepirse" });
             DropIndex("dbo.Job_Offer", new[] { "EntrepirseFK" });
             DropIndex("dbo.Question", new[] { "TestFK" });
@@ -252,10 +253,10 @@ namespace ProfessionalNetwork.Data.Migrations
             DropIndex("dbo.Application", new[] { "Job_SeekerFK" });
             DropIndex("dbo.Application", new[] { "Job_OfferFK" });
             DropTable("dbo.Follows");
-            DropTable("dbo.Likes");
-            DropTable("dbo.Comments");
             DropTable("dbo.Project_Manager");
+            DropTable("dbo.Likes");
             DropTable("dbo.Posts");
+            DropTable("dbo.Comments");
             DropTable("dbo.Job_Seeker");
             DropTable("dbo.Entreprise_admin");
             DropTable("dbo.Job_Offer");

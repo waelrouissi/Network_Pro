@@ -12,9 +12,13 @@ namespace ProfessionalNetwork.Data.Configurations
     {
         public LikesConfiguration ()
         {
-            HasKey(a => new {a.id_jobseeker, a.Id_Post});
+            this.ToTable("Likes");
+            HasKey(a => new { a.Id_Like });
+            HasRequired<Jobseeker>(t => t.Jobseeker).WithMany(t => t.Likes).
+                   HasForeignKey(t => t.FK_jobseeker).WillCascadeOnDelete(true);
 
-
+            HasRequired<Posts>(t => t.Posts).WithMany(t => t.Likes).
+                  HasForeignKey(t => t.FK_Post).WillCascadeOnDelete(false);
         }
     }
 }

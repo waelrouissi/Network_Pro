@@ -208,6 +208,7 @@
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\ApplicationController.cs" />
+    <Compile Include="Controllers\CommentsController.cs" />
     <Compile Include="Controllers\Entrepirse_AdminController.cs" />
     <Compile Include="Controllers\Entreprise_AdminController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
@@ -215,7 +216,7 @@
     <Compile Include="Controllers\JobSeekerController.cs" />
     <Compile Include="Controllers\Job_OfferController.cs" />
     <Compile Include="Controllers\ManageController.cs" />
-    <Compile Include="Controllers\PostController.cs" />
+    <Compile Include="Controllers\PostsController.cs" />
     <Compile Include="Controllers\project_ManagerController.cs" />
     <Compile Include="Controllers\QuestionController.cs" />
     <Compile Include="Controllers\TestController.cs" />
@@ -226,6 +227,7 @@
     <Compile Include="Models\AccountVM.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\ApplicationVM.cs" />
+    <Compile Include="Models\CommentsVM.cs" />
     <Compile Include="Models\EntityTrace.cs" />
     <Compile Include="Models\Entreprise_adminVM.cs" />
     <Compile Include="Models\Enums.cs" />
@@ -234,7 +236,9 @@
     <Compile Include="Models\InterviewVM.cs" />
     <Compile Include="Models\JobseekerVM.cs" />
     <Compile Include="Models\Job_OfferVM.cs" />
+    <Compile Include="Models\LikesVM.cs" />
     <Compile Include="Models\ManageViewModels.cs" />
+    <Compile Include="Models\PostsVM.cs" />
     <Compile Include="Models\Project_ManagerVM.cs" />
     <Compile Include="Models\QuestionVM.cs" />
     <Compile Include="Models\TestVM.cs" />
@@ -398,14 +402,22 @@
     <Content Include="Template\webfonts\fa-solid-900.woff2" />
     <Content Include="Views\Shared\_NewLayout.cshtml" />
     <Content Include="Views\Shared\_MainLayout.cshtml" />
+    <Content Include="Views\JobSeeker\Index.cshtml" />
+    <Content Include="Views\JobSeeker\Details.cshtml" />
+    <Content Include="Views\JobSeeker\Create.cshtml" />
+    <Content Include="Views\JobSeeker\Edit.cshtml" />
+    <Content Include="Views\JobSeeker\Delete.cshtml" />
+    <Content Include="Views\Posts\Index.cshtml" />
+    <Content Include="Views\Posts\Create.cshtml" />
+    <Content Include="Views\Posts\Delete.cshtml" />
+    <Content Include="Views\Comments\Create.cshtml" />
+    <Content Include="Views\Comments\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Views\Entrepirse_Admin\" />
     <Folder Include="Views\Entreprise_Admin\" />
-    <Folder Include="Views\JobSeeker\" />
     <Folder Include="Views\Job_Offer\" />
-    <Folder Include="Views\Post\" />
     <Folder Include="Views\project_Manager\" />
     <Folder Include="Views\Question\" />
   </ItemGroup>
