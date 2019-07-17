@@ -9,75 +9,61 @@
     Layout = "~/Views/Shared/_MainLayout.cshtml";
 }
 
-<h2>Index</h2>
 
-<p>
-    @Html.ActionLink("Create New", "Create")
-</p>
-<table class="table">
-    <tr>
-        @*<th>
-                @Html.DisplayNameFor(model => model.Date_Created)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Date_Modified)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Date_Deleted)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.IsDeleted)
-            </th>*@
-        <th>
-            @Html.DisplayNameFor(model => model.Id_Test)
-        </th>
-        <th>
-            @Html.DisplayNameFor(model => model.Nbr_Question)
-        </th>
-        <th>
-            @Html.DisplayNameFor(model => model.Nbr_Point_Tolal)
-        </th>
-        <th>
-            @Html.DisplayNameFor(model => model.Name_Test)
-        </th>
-        <th></th>
-    </tr>
 
-    @foreach (var item in Model)
-    {
-        <tr>
-            @*<td>
-                    @Html.DisplayFor(modelItem => item.Date_Created)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.Date_Modified)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.Date_Deleted)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.IsDeleted)
-                </td>*@
-            <td>
-                @Html.DisplayFor(modelItem => item.Id_Test)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Nbr_Question)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Nbr_Point_Tolal)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Name_Test)
-            </td>
-            <td>
-                @*@Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
-                    @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
 
-                    @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })|*@
-                @Html.ActionLink("liste questions", "listquestion", new { id = item.Id_Test })
-            </td>
-        </tr>
-    }
 
-</table>
+                    @*@Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })|
+                @Html.ActionLink("liste questions", "listquestion", new { id = item.Id_Test })*@
+       
+
+
+    <h3 class="tittle text-center mb-lg-5 mb-3">
+        @*<span>Our Packeges</span>*@Test List
+    </h3>
+    <!---728x90--->
+   
+   
+
+                @foreach (var item in Model)
+                {
+
+                    <div class="card-deck text-center row mt-5">
+
+                        <div class="price-info-grid col-lg-3">
+                            <div class="price-inner">
+                                <div class="price-header">
+                                    <h4>@Html.DisplayFor(modelItem => item.Name_Test)</h4>
+                                </div>
+                                <div class="price-body">
+                                    <h5 class="pricing-title">
+                                        <span class="dolor">$</span> 789.00
+
+                                    </h5>
+
+                                    <ul class="list-unstyled mt-3 mb-4">
+                                        <li class="py-2 border-bottom">Number of Questions : @Html.DisplayFor(modelItem => item.Nbr_Question)</li>
+                                        <li class="py-2 border-bottom">Total points : @Html.DisplayFor(modelItem => item.Nbr_Point_Tolal)</li>
+
+                                        <li class="py-2">-</li>
+                                    </ul>
+
+
+
+                                    <a href="@Url.Action("listquestion", new { id = item.Id_Test })" class="btn btn-block btn-outline-primary py-2">
+                                        <i class="far fa-user"></i> List of Questions
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                }
+
+<br />
+<br />
+
+                    <h3>
+                        @Html.ActionLink("Create New Test", "Create")
+                    </h3>
+
+

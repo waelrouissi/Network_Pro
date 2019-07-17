@@ -121,7 +121,7 @@
     <div class="single-user-candidate">
         <div class="user-detail-info text-center">
             <div class="user-pic">
-                <img src="images/team1.jpg" class="img-fluid rounded-circle" alt="">
+                <img src="/Template/images/team1.jpg" class="img-fluid rounded-circle" alt="">
             </div>
             <div class="user-content-info emply-resume-info text-center mt-4">
                 <h4>
@@ -166,13 +166,82 @@
                 <dd>
                     @Html.DisplayFor(model => model.Job_Offer.Job_Description)
                 </dd>
+
+
             </dl>
         </div>
     </div>
+
+
+
+
     <!--// about -->
     <!---728x90--->
     <!--/history -->
-    <div class="candidate-history-info mt-5">
+
+
+    <div class="candidate-ab-info mt-5">
+        <h5 class="j-b mb-3">About Job Seeker</h5>
+        <div class="col-md-6">
+            <dl class="dl-horizontal">
+                <dt>
+                    @Html.DisplayNameFor(model => model.Jobseeker.FullName)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.Jobseeker.FullName)
+                </dd>
+
+
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.Jobseeker.Email)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.Jobseeker.Email)
+                </dd>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.Jobseeker.Date_of_birth)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.Jobseeker.Date_of_birth)
+                </dd>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.Jobseeker.Intro_jobseeker)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.Jobseeker.Intro_jobseeker)
+                </dd>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.Jobseeker.Skills)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.Jobseeker.Skills)
+                </dd>
+
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.Jobseeker.Certif)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.Jobseeker.Certif)
+                </dd>
+
+            </dl>
+        </div>
+    </div>
+
+
+
+    @*<div class="candidate-history-info mt-5">
         <h5 class="j-b mb-5">Education</h5>
         <div class="candidate-story-grid pl-3">
             <div class="candidate-story-det-icon text-center">
@@ -278,7 +347,7 @@
             </div>
             <div class="clearfix"></div>
         </div>
-    </div>
+    </div>*@
     <!--//awards-->
     <!--/skills-->
     <div class="candidate-btn-in d-flex text-right mt-5">
