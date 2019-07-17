@@ -23,5 +23,7 @@ namespace ProfessionalNetwork.Domaine.Entities
 
         [DataType(DataType.DateTime)]
         public DateTime Date_Com { get; set; }
+
+
     }
 }

@@ -10,6 +10,7 @@ namespace ProfessionalNetwork.Domaine.Entities
 {
     public class Likes
     {
+
         [Key]
         public long Id_Like { get; set; }
 

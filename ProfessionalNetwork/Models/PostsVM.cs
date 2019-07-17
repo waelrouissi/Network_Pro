@@ -9,7 +9,6 @@ namespace ProfessionalNetwork.Models
 {
     public class PostsVM
     {
-
         [Key]
         public long Id_Post { get; set; }
         public string Post { get; set; }

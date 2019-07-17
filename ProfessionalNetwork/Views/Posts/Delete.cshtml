@@ -1,5 +1,12 @@
 ﻿@model ProfessionalNetwork.Models.PostsVM
 
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+<h2>Delete</h2>
+
 <h3>Are you sure you want to delete this?</h3>
 <div>
     <h4>PostsVM</h4>
@@ -29,10 +36,33 @@
             @Html.DisplayFor(model => model.Job_SeekerFK)
         </dd>
 
+        <dt>
+            @Html.DisplayNameFor(model => model.isLiked)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.isLiked)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.isPostOwner)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.isPostOwner)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.nbrLikes)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.nbrLikes)
+        </dd>
+
     </dl>
 
-    @using (Html.BeginForm())
-    {
+    @using (Html.BeginForm()) {
         @Html.AntiForgeryToken()
 
         <div class="form-actions no-color">

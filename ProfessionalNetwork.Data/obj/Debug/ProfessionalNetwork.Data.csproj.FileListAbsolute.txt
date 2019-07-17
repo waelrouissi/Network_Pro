@@ -108,9 +108,9 @@ C:\Users\salsa\OneDrive\Documents\GitHub\Network_Pro\ProfessionalNetwork.Data\bi
 C:\Users\salsa\OneDrive\Documents\GitHub\Network_Pro\ProfessionalNetwork.Data\bin\Debug\EntityFramework.xml
 C:\Users\salsa\OneDrive\Documents\GitHub\Network_Pro\ProfessionalNetwork.Data\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\salsa\OneDrive\Documents\GitHub\Network_Pro\ProfessionalNetwork.Data\obj\Debug\ProfessionalNetwork.Data.csprojAssemblyReference.cache
+C:\Users\salsa\OneDrive\Documents\GitHub\Network_Pro\ProfessionalNetwork.Data\obj\Debug\ProfessionalNetwork.Data.Migrations.K.resources
+C:\Users\salsa\OneDrive\Documents\GitHub\Network_Pro\ProfessionalNetwork.Data\obj\Debug\ProfessionalNetwork.Data.csproj.GenerateResource.cache
 C:\Users\salsa\OneDrive\Documents\GitHub\Network_Pro\ProfessionalNetwork.Data\obj\Debug\ProfessionalNetwork.Data.csproj.CoreCompileInputs.cache
 C:\Users\salsa\OneDrive\Documents\GitHub\Network_Pro\ProfessionalNetwork.Data\obj\Debug\ProfessionalNetwork.Data.csproj.CopyComplete
 C:\Users\salsa\OneDrive\Documents\GitHub\Network_Pro\ProfessionalNetwork.Data\obj\Debug\ProfessionalNetwork.Data.dll
 C:\Users\salsa\OneDrive\Documents\GitHub\Network_Pro\ProfessionalNetwork.Data\obj\Debug\ProfessionalNetwork.Data.pdb
-C:\Users\salsa\OneDrive\Documents\GitHub\Network_Pro\ProfessionalNetwork.Data\obj\Debug\ProfessionalNetwork.Data.Migrations.K.resources
-C:\Users\salsa\OneDrive\Documents\GitHub\Network_Pro\ProfessionalNetwork.Data\obj\Debug\ProfessionalNetwork.Data.csproj.GenerateResource.cache

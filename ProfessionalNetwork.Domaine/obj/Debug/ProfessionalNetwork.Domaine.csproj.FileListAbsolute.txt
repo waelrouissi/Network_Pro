@@ -83,7 +83,6 @@ C:\Users\salsa\OneDrive\Documents\GitHub\Network_Pro\ProfessionalNetwork.Domaine
 C:\Users\salsa\OneDrive\Documents\GitHub\Network_Pro\ProfessionalNetwork.Domaine\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\salsa\OneDrive\Documents\GitHub\Network_Pro\ProfessionalNetwork.Domaine\bin\Debug\EntityFramework.xml
 C:\Users\salsa\OneDrive\Documents\GitHub\Network_Pro\ProfessionalNetwork.Domaine\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\salsa\OneDrive\Documents\GitHub\Network_Pro\ProfessionalNetwork.Domaine\obj\Debug\ProfessionalNetwork.Domaine.csprojAssemblyReference.cache
 C:\Users\salsa\OneDrive\Documents\GitHub\Network_Pro\ProfessionalNetwork.Domaine\obj\Debug\ProfessionalNetwork.Domaine.csproj.CoreCompileInputs.cache
 C:\Users\salsa\OneDrive\Documents\GitHub\Network_Pro\ProfessionalNetwork.Domaine\obj\Debug\ProfessionalNetwork.Domaine.csproj.CopyComplete
 C:\Users\salsa\OneDrive\Documents\GitHub\Network_Pro\ProfessionalNetwork.Domaine\obj\Debug\ProfessionalNetwork.Domaine.dll

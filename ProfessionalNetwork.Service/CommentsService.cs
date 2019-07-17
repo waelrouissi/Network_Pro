@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace ProfessionalNetwork.Service
 {
-    class CommentsService : Service<Comments>, ICommentsServices
+   public  class CommentsService : Service<Comments>, ICommentsServices
     {
         private static IDatabaseFactory dbfactory = new DatabaseFactory();
         private static IUnitOfWork ut = new UnitOfWork(dbfactory);

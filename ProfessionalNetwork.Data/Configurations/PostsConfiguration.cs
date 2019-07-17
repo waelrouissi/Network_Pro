@@ -16,7 +16,7 @@ namespace ProfessionalNetwork.Data.Configurations
             HasKey(a => new { a.Id_Post });
             //one to many relation
             HasRequired<Jobseeker>(t => t.Jobseeker).WithMany(t => t.Posts).
-                        HasForeignKey(t => t.Job_SeekerFK).WillCascadeOnDelete(true);
+                        HasForeignKey(t => t.Job_SeekerFK).WillCascadeOnDelete(false);
 
 
             // HasRequired<Jobseeker>(t => t.Jobseeker).WithMany(t => t.Posts).HasForeignKey(t => t.Job_SeekerFK).WillCascadeOnDelete(true);

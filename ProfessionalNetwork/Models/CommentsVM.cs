@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ProfessionalNetwork.Domaine.Entities;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
@@ -8,7 +9,7 @@ namespace ProfessionalNetwork.Models
 {
     public class CommentsVM
     {
-        [Key]
+
         public int Id_Com { get; set; }
 
         public long FK_jobseeker { get; set; }
