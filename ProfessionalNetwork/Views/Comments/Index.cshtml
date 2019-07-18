@@ -1,0 +1,30 @@
+﻿@model IEnumerable<ProfessionalNetwork.Models.CommentsVM>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+@foreach (var item in Model)
+{
+
+
+    <div class="panel panel-default">
+        <div class="panel-heading"> @Html.DisplayFor(modelItem => item.Date_Com) </div>
+        <div class="panel-body"> @Html.DisplayFor(modelItem => item.Comment)</div>
+    </div>
+
+}
+
+@using (Html.BeginForm("CreateMsg", "Comments", FormMethod.Post))
+{
+    <div class="input-group mb-12">
+        <div class="input-group-prepend">
+            <span class="input-group-text" id="basic-addon1">Add Comment</span>
+        </div>
+        <input type="text" class="form-control mb-12" placeholder="msg" aria-label="msg" aria-describedby="basic-addon1" name="msg" id="msg">
+    </div>
+    <br />
+    <button type="submit" value="Create" class="btn btn-primary">Submit</button>
+}
+

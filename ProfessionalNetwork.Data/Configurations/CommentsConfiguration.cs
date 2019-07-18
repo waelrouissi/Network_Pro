@@ -12,7 +12,13 @@ namespace ProfessionalNetwork.Data.Configurations
     {
         public CommentsConfiguration()
         {
-            HasKey(a => new { a.id_jobseeker, a.Id_Post });
+            this.ToTable("Comments");
+            HasKey(a => new { a.Id_Com });
+
+            HasRequired<Jobseeker>(t => t.Jobseeker).WithMany(t => t.Comments).
+                  HasForeignKey(t => t.FK_jobseeker).WillCascadeOnDelete(false);
+            HasRequired<Posts>(t => t.Posts).WithMany(t => t.Comments).
+                  HasForeignKey(t => t.FK_Post).WillCascadeOnDelete(false);
         }
     }
 }

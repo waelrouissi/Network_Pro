@@ -11,19 +11,19 @@ namespace ProfessionalNetwork.Domaine.Entities
     public class Comments
 
     {
-        [Key, Column(Order = 0)]
-        public long id_jobseeker { get; set; }
-        
-        [Key, Column(Order = 1)]
-        public long Id_Post { get; set; }
-        
+        public int Id_Com { get; set; }
+
+        public long FK_jobseeker { get; set; }
+        public Jobseeker Jobseeker { get; set; }
+
+        public long FK_Post { get; set; }
+        public Posts Posts { get; set; }
+
         public string Comment { get; set; }
+
         [DataType(DataType.DateTime)]
         public DateTime Date_Com { get; set; }
 
-        [ForeignKey("id_jobseeker")]
-        public Jobseeker Jobseekers { get; set; }
-        [ForeignKey("Id_Post")]
-        public Posts Posts { get; set; }
+
     }
 }

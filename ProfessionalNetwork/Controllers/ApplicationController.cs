@@ -207,7 +207,7 @@ namespace ProfessionalNetwork.Controllers
                     Pwd = _JobSeeker.Pwd,
                     IsDeleted = _JobSeeker.IsDeleted,
                     Skills = _JobSeeker.Skills,
-                    FullName= _JobSeeker.Last_Name + _JobSeeker.First_Name
+                    FullName= _JobSeeker.Last_Name +" "+ _JobSeeker.First_Name
 
                 },
                 Job_Offer = new Job_OfferVM

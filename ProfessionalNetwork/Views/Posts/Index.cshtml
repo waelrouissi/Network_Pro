@@ -1,0 +1,79 @@
+﻿@model IEnumerable<ProfessionalNetwork.Models.PostsVM>
+@*<link href="~/Template/css/bootstrap.css" rel="stylesheet" />
+    <link href="~/Template/css/bootstrap.css" rel="stylesheet" />*@
+<link href="~/Content/bootstrap.css" rel="stylesheet" />
+<script src="~/Scripts/bootstrap.min.js"></script>
+<script src="~/Scripts/bootstrap.js"></script>
+<script src="~/Scripts/jquery-3.0.0.js"></script>
+<script src="~/Scripts/popper-utils.js"></script>
+<script src="~/Scripts/popper.min.js"></script>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+    ViewBag.Title = "bootstrap";
+
+}
+
+<br />
+<br />
+
+<div>
+
+    @Html.ActionLink("Want to add a New Post? Click here", "Create")
+
+</div>
+
+<br />
+
+
+@foreach (var item in Model)
+{
+
+
+    <div class="job-post-main row">
+        <div class="col-md-9 job-post-info text-left">
+            <div class="job-post-icon">
+                <i class="glyphicon glyphicon-user " style="font-size:20px;"></i>
+                <span class="oi oi-icon-name" title="icon name" aria-hidden="true"></span>
+            </div>
+            <div class="job-single-sec">
+                <h4>
+                    @Html.DisplayFor(modelItem => item.Post)
+                </h4>
+                <p class="my-2">@Html.DisplayFor(modelItem => item.Date_Post)</p>
+
+            </div>
+            <div class="clearfix"></div>
+        </div>
+        <div class="col-md-3 job-single-time text-right">
+            @Html.DisplayFor(modelItem => item.nbrLikes) Likes |
+
+            @if (!item.isLiked)
+
+            {
+
+                <button id="btn" type="button" class="btn btn-success">
+                    <span class="glyphicon glyphicon-thumbs-up" aria-hidden="true" onclick="location.href='@Url.Action("LikePost","Posts", new { id = item.Id_Post })'"></span>
+                </button>
+                @*@Html.ActionLink("Like ", "LikePost", new { id = item.Id_Post }, htmlAttributes: new { @class = "glyphicon glyphicon-cloud-download btn btn-default" })*@
+
+            }
+            |
+            @Html.ActionLink("View Comments", "ViewComments", new { id = item.Id_Post })
+            |
+
+            @if (item.isPostOwner)
+            {
+
+
+                @Html.ActionLink("Delete", "Delete", new { id = item.Id_Post })
+
+            }
+
+        </div>
+
+    </div>
+
+
+
+}

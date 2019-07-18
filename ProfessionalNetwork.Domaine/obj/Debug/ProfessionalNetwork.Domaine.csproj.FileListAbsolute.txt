@@ -76,3 +76,15 @@ C:\Users\SAFA\Documents\GitHub\Network_Pro\ProfessionalNetwork.Domaine\bin\Debug
 C:\Users\SAFA\Documents\GitHub\Network_Pro\ProfessionalNetwork.Domaine\obj\Debug\ProfessionalNetwork.Domaine.csprojResolveAssemblyReference.cache
 C:\Users\SAFA\Documents\GitHub\Network_Pro\ProfessionalNetwork.Domaine\obj\Debug\ProfessionalNetwork.Domaine.dll
 C:\Users\SAFA\Documents\GitHub\Network_Pro\ProfessionalNetwork.Domaine\obj\Debug\ProfessionalNetwork.Domaine.pdb
+C:\Users\salsa\OneDrive\Documents\GitHub\Network_Pro\ProfessionalNetwork.Domaine\bin\Debug\ProfessionalNetwork.Domaine.dll.config
+C:\Users\salsa\OneDrive\Documents\GitHub\Network_Pro\ProfessionalNetwork.Domaine\bin\Debug\ProfessionalNetwork.Domaine.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\Network_Pro\ProfessionalNetwork.Domaine\bin\Debug\ProfessionalNetwork.Domaine.pdb
+C:\Users\salsa\OneDrive\Documents\GitHub\Network_Pro\ProfessionalNetwork.Domaine\bin\Debug\EntityFramework.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\Network_Pro\ProfessionalNetwork.Domaine\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\Network_Pro\ProfessionalNetwork.Domaine\bin\Debug\EntityFramework.xml
+C:\Users\salsa\OneDrive\Documents\GitHub\Network_Pro\ProfessionalNetwork.Domaine\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\salsa\OneDrive\Documents\GitHub\Network_Pro\ProfessionalNetwork.Domaine\obj\Debug\ProfessionalNetwork.Domaine.csprojAssemblyReference.cache
+C:\Users\salsa\OneDrive\Documents\GitHub\Network_Pro\ProfessionalNetwork.Domaine\obj\Debug\ProfessionalNetwork.Domaine.csproj.CoreCompileInputs.cache
+C:\Users\salsa\OneDrive\Documents\GitHub\Network_Pro\ProfessionalNetwork.Domaine\obj\Debug\ProfessionalNetwork.Domaine.csproj.CopyComplete
+C:\Users\salsa\OneDrive\Documents\GitHub\Network_Pro\ProfessionalNetwork.Domaine\obj\Debug\ProfessionalNetwork.Domaine.dll
+C:\Users\salsa\OneDrive\Documents\GitHub\Network_Pro\ProfessionalNetwork.Domaine\obj\Debug\ProfessionalNetwork.Domaine.pdb
