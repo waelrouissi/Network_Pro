@@ -31,7 +31,7 @@ namespace ProfessionalNetwork.Controllers
         public ActionResult Index()
         {
 
-            var l = _ITestervice.GetAll();
+            var l = _ITestervice.GetAll().Where(p=>p.IsDeleted==false);
             List<TestVM> lo = new List<TestVM>();
 
             foreach (var item in l)
@@ -59,7 +59,7 @@ namespace ProfessionalNetwork.Controllers
         // GET: Test/Details/5
         public ActionResult listquestion(long id)
         {
-            var _listquest = _IQuestionervice.GetAll().Where(a => a.TestFK == id).ToList();
+            var _listquest = _IQuestionervice.GetAll().Where(a => a.TestFK == id ).ToList();
             List<QuestionVM> li = new List<QuestionVM>();
             foreach (var q in _listquest)
             {
@@ -96,6 +96,7 @@ namespace ProfessionalNetwork.Controllers
             Test t = new Test();
             t.Name_Test = TVM.Name_Test;
             t.Nbr_Question = TVM.Nbr_Question;
+            t.Nbr_Point_Tolal = TVM.Nbr_Point_Tolal;
 
             _ITestervice.Add(t);
             _ITestervice.Commit();
