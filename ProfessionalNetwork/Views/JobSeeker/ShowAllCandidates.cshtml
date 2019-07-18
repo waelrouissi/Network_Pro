@@ -1,0 +1,171 @@
+﻿@model IEnumerable<ProfessionalNetwork.Models.JobseekerVM>
+
+@{
+    ViewBag.Title = "ShowAllCandidates";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+@*<h2>ShowAllCandidates</h2>
+
+    <p>
+        @Html.ActionLink("Create New", "Create")
+    </p>
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Date_Created)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Date_Modified)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Date_Deleted)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IsDeleted)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Username)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Pwd)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Enable)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Photo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.id_jobseeker)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First_Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Last_Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Intro_jobseeker)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Date_of_birth)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Certif)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Skills)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FullName)
+            </th>
+            <th></th>
+        </tr>
+
+    @foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Date_Created)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Date_Modified)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Date_Deleted)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IsDeleted)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Username)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Pwd)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Enable)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Photo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.id_jobseeker)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.First_Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Last_Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Intro_jobseeker)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Date_of_birth)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Certif)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Skills)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FullName)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+            </td>
+        </tr>
+    }
+
+    </table>*@
+
+<div class="inner-sec-w3ls py-lg-5  py-3">
+    <!---728x90--->
+    <h3 class="tittle text-center mb-lg-4 mb-3">
+        <span> </span>Manage your Network
+    </h3>
+    <!---728x90--->
+
+</div>
+
+<div class="col-lg-12 job_info_left">
+    <!--/ Emply List -->
+    @foreach (var item in Model)
+    {
+        <div class="emply-resume-list row mb-3">
+            <div class="col-md-8 emply-info">
+                <div class="emply-img">
+                    <img src="~/Template/images/team1.jpg" alt="" class="img-fluid">
+                </div>
+                <div class="emply-resume-info">
+                    <h4>@Html.DisplayFor(modelItem => item.First_Name)  @Html.DisplayFor(modelItem => item.Last_Name)</h4>
+
+                    <h5 class="mt-2"><span> @Html.DisplayFor(modelItem => item.Intro_jobseeker)</span></h5>
+                    <h5 class="mt-2"><span> @Html.DisplayFor(modelItem => item.Certif)</span></h5>
+                    <h5 class="mt-2"><span> @Html.DisplayFor(modelItem => item.Skills))</span></h5>
+
+                    <ul class="links_bottom_emp mt-2">
+                            @*<li><a href="candidates_single.html"><i class="far fa-envelope"></i> <span class="icon_text"> Email this Job</span></a></li>*@
+                            <li><a href="@Url.Action("Details", new { id = item.id_jobseeker })"><i class="fas fa-eye"></i> <span class="icon_text">View full Profile Description</span></a></li>
+                        </ul>
+                </div>
+                <div class="clearfix"></div>
+            </div>
+            <div class="col-md-3 emp_btn text-right">
+
+                <a href="@Url.Action("Delete", new { id = item.id_jobseeker })"> <i class="fa fa-trash align-right" aria-hidden="true"></i></a>
+                <a href="@Url.Action("Edit", new { id = item.id_jobseeker })"> <i class="fa fa-edit align-right" aria-hidden="true"></i></a>
+            </div>
+            </div>
+    }
+</div>

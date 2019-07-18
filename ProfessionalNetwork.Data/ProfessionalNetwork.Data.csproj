@@ -71,9 +71,13 @@
     <Compile Include="Infrastructure\IUnitOfWork.cs" />
     <Compile Include="Infrastructure\RepositoryBase.cs" />
     <Compile Include="Infrastructure\UnitOfWork.cs" />
-    <Compile Include="Migrations\201907172005589_K.cs" />
-    <Compile Include="Migrations\201907172005589_K.Designer.cs">
-      <DependentUpon>201907172005589_K.cs</DependentUpon>
+    <Compile Include="Migrations\201907182125540_InitialCreate.cs" />
+    <Compile Include="Migrations\201907182125540_InitialCreate.Designer.cs">
+      <DependentUpon>201907182125540_InitialCreate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201907182127193_version2.cs" />
+    <Compile Include="Migrations\201907182127193_version2.Designer.cs">
+      <DependentUpon>201907182127193_version2.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -116,11 +120,6 @@
     <None Include="Scripts\umd\popper.min.js.map" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\201907172005589_K.resx">
-      <DependentUpon>201907172005589_K.cs</DependentUpon>
-    </EmbeddedResource>
-  </ItemGroup>
-  <ItemGroup>
     <Content Include="Content\bootstrap-grid.css" />
     <Content Include="Content\bootstrap-grid.min.css" />
     <Content Include="Content\bootstrap-reboot.css" />
@@ -151,6 +150,14 @@
   </ItemGroup>
   <ItemGroup>
     <TypeScriptCompile Include="Scripts\index.d.ts" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201907182125540_InitialCreate.resx">
+      <DependentUpon>201907182125540_InitialCreate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201907182127193_version2.resx">
+      <DependentUpon>201907182127193_version2.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it.

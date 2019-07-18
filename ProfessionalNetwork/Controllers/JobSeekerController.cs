@@ -62,6 +62,34 @@ namespace ProfessionalNetwork.Controllers
 
         }
 
+        // GET: JobSeeker
+        public ActionResult ShowAllCandidates()
+        {
+            List<JobseekerVM> list = new List<JobseekerVM>();
+
+            foreach (var item in _IJobSeekerService.GetAll())
+            {
+                JobseekerVM JS = new JobseekerVM();
+
+                JS.First_Name = item.First_Name;
+                JS.Last_Name = item.Last_Name;
+                JS.Date_of_birth = item.Date_of_birth;
+                JS.Photo = item.Photo;
+                JS.Intro_jobseeker = item.Intro_jobseeker;
+                JS.Certif = item.Certif;
+                JS.Skills = item.Skills;
+                JS.Email = item.Email;
+                JS.Username = item.Username;
+                JS.Pwd = item.Pwd;
+                JS.id_jobseeker = item.id_jobseeker;
+
+                list.Add(JS);
+            }
+
+            return View(list);
+
+        }
+
         // GET: JobSeeker/Details/5
         public ActionResult Details(int id)
         {
@@ -71,7 +99,7 @@ namespace ProfessionalNetwork.Controllers
 
                 First_Name = item.First_Name,
                 Last_Name = item.Last_Name,
-                Date_of_birth = item.Date_of_birth,
+                //Date_of_birth = item.Date_of_birth,
                 //Photo = item.Photo,
                 Intro_jobseeker = item.Intro_jobseeker,
                 Certif = item.Certif,

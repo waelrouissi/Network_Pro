@@ -10,6 +10,7 @@ namespace ProfessionalNetwork.Data.Migrations
         public Configuration()
         {
             AutomaticMigrationsEnabled = false;
+            ContextKey = "ProfessionalNetwork.Data.Context";
         }
 
         protected override void Seed(ProfessionalNetwork.Data.Context context)
