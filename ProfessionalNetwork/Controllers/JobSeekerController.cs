@@ -72,11 +72,11 @@ namespace ProfessionalNetwork.Controllers
                 First_Name = item.First_Name,
                 Last_Name = item.Last_Name,
                 Date_of_birth = item.Date_of_birth,
-                Photo = item.Photo,
+                //Photo = item.Photo,
                 Intro_jobseeker = item.Intro_jobseeker,
                 Certif = item.Certif,
                 Skills = item.Skills,
-                Email = item.Email,
+                //Email = item.Email,
                 id_jobseeker = item.id_jobseeker
 
             };
@@ -103,11 +103,11 @@ namespace ProfessionalNetwork.Controllers
             JS.First_Name = JSVM.First_Name;
             JS.Last_Name = JSVM.Last_Name;
             JS.Date_of_birth = JSVM.Date_of_birth;
-            //JS.Photo = JSVM.Photo;
-            //JS.Intro_jobseeker = JSVM.Intro_jobseeker;
-            //JS.Certif = JSVM.Certif;
-            //JS.Skills = JSVM.Skills;
-            //JS.Email = JSVM.Email;
+            JS.Photo = JSVM.Photo;
+            JS.Intro_jobseeker = JSVM.Intro_jobseeker;
+            JS.Certif = JSVM.Certif;
+            JS.Skills = JSVM.Skills;
+            JS.Email = JSVM.Email;
             JS.Username = JSVM.Username;
             JS.Pwd = JSVM.Pwd;
 

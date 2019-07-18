@@ -4,7 +4,7 @@
     ViewBag.Title = "Details";
 }
 
-<h2>Details</h2>
+@*<h2>Details</h2>
 
 <div>
     <h4>Profile</h4>
@@ -74,7 +74,117 @@
 
 
     </dl>
-</div>
+</div> *@
+
+        <div class="inner-sec-w3ls py-lg-5  py-3">
+            <!---728x90--->
+            <div class="single-user-candidate">
+                <div class="user-detail-info text-center">
+                    <div class="user-pic">
+                        <img src="~/Template/images/team1.jpg" class="img-fluid rounded-circle" alt="">
+                    </div>
+                    <div class="user-content-info emply-resume-info text-center mt-4">
+                        <h4>
+                            <a href="#">@Html.DisplayFor(model => model.First_Name)  @Html.DisplayFor(model => model.Last_Name)</a>
+                        </h4>
+                        <h5 class="mt-2">
+                            <span>@Html.DisplayFor(model => model.Date_of_birth)</span>
+                        </h5>
+                    </div>
+                </div>
+            </div>
+
+            <!--/about -->
+            <div class="candidate-ab-info mt-5">
+                <h5 class="j-b mb-3">About</h5>
+                <p>@Html.DisplayFor(model => model.Intro_jobseeker)</p>
+
+            </div>
+            <!--// about -->
+            <!---728x90--->
+            <div class="candidate-history-info mt-5">
+                <h5 class="j-b mb-5">Professional Skills</h5>
+                <div class="skill-info pl-3 mt-5">
+                    <p class="b_label my-2">HTML5</p>
+                    <div class="progress">
+                        <div class="progress-bar progress-bar-striped" role="progressbar" style="width: 10%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"></div>
+                    </div>
+                    <p class="b_label my-2">PHOTOSHOP</p>
+                    <div class="progress">
+                        <div class="progress-bar progress-bar-striped bg-success" role="progressbar" style="width: 25%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+                    </div>
+                    <p class="b_label my-2">GRAPHIC DESIGN</p>
+                    <div class="progress">
+                        <div class="progress-bar progress-bar-striped bg-info" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+                    </div>
+                    <p class="b_label my-2">CSS3</p>
+                    <div class="progress">
+                        <div class="progress-bar progress-bar-striped bg-warning" role="progressbar" style="width: 75%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+                    </div>
+                    <p class="b_label my-2">JAVASCRIPT</p>
+                    <div class="progress">
+                        <div class="progress-bar progress-bar-striped bg-danger" role="progressbar" style="width: 100%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+                    </div>
+                </div>
+            </div>
+            <!--//skills-->
+            <!---experience-->
+            <div class="candidate-history-info mt-5">
+                <h5 class="j-b mb-5">Experience</h5>
+
+                <div class="candidate-story-grid pl-3">
+                    <div class="candidate-story-det-icon text-center">
+                        <i class="fas fa-shield-alt"></i>
+                    </div>
+                    <div class="candidate-story-det-info">
+                        <h4>@Html.DisplayFor(model => model.Certif)</h4>
+                        <h6 class="my-2">2012 - 2015</h6>
+                    </div>
+                    <div class="clearfix"></div>
+                </div>
+                <div class="candidate-story-grid pl-3 mt-5">
+                    <div class="candidate-story-det-icon text-center">
+                        <i class="fas fa-shield-alt"></i>
+                    </div>
+                    <div class="candidate-story-det-info">
+                        <h4>@Html.DisplayFor(model => model.Skills)</h4>
+                        <h6 class="my-2">2015 - 2017</h6>
+                    </div>
+                    <div class="clearfix"></div>
+                </div>
+            </div>
+            <!--//experience-->
+            <!--/awards-->
+            <div class="candidate-history-info mt-5">
+                <h5 class="j-b mb-5">Awards</h5>
+
+                <div class="candidate-story-grid pl-3">
+                    <div class="candidate-story-det-icon text-center">
+                        <i class="fas fa-trophy"></i>
+                    </div>
+                    <div class="candidate-story-det-info">
+                        <h4>Perfect Attendance Programs</h4>
+                        <h6 class="my-2">2012 - 2015</h6>
+                        <p>Curabitur non nulla sit amet nislinit tempus convallis quis ac lectus. lac inia eget consectetur sed, convallis at tellus. Nulla porttitor accumsana tincidunt.Lorem ipsum dolor sit amet consectetur adipisicing elit sedc dnmo eiusmod tempor incididunt ut labore et dolore .Nam arcu mauris.</p>
+                    </div>
+                    <div class="clearfix"></div>
+                </div>
+                <div class="candidate-story-grid pl-3 mt-5">
+                    <div class="candidate-story-det-icon text-center">
+                        <i class="fas fa-trophy"></i>
+                    </div>
+                    <div class="candidate-story-det-info">
+                        <h4>Top Performer Recognition</h4>
+                        <h6 class="my-2">2015 - 2017</h6>
+                        <p class="mb-4">Curabitur non nulla sit amet nislinit tempus convallis quis ac lectus. lac inia eget consectetur sed, convallis at tellus. Nulla porttitor accumsana tincidunt.Lorem ipsum dolor sit amet consectetur adipisicing elit sedc dnmo eiusmod tempor incididunt ut labore et dolore .Nam arcu mauris.</p>
+                    </div>
+                    <div class="clearfix"></div>
+                </div>
+            </div>
+            <!--//awards-->
+            <!--/skills-->
+        </div>
+
 <p>
     @Html.ActionLink("Back to List", "Index")
 </p>

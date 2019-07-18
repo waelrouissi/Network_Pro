@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data.Entity.Validation;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -22,7 +23,8 @@ namespace ProfessionalNetwork.Data.Infrastructure
 
         public void Commit()
         {
-            dataContext.SaveChanges();
+                dataContext.SaveChanges();
+            
         }
         
         public void Dispose()
